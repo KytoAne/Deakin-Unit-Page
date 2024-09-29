@@ -1,8 +1,5 @@
 
-div {
-  background-color: darkcyan;
-  text-align: right;
-}
+
 
 h1 {
   font-size: 40px;
@@ -20,13 +17,3 @@ p {
   font-family: Arial
 }
 
-th, td {
-  padding: 8px;
-  text-align: left;
-  border-bottom: 1px solid #ddd;
-  font-family: Arial
-}
-
-tr:nth-child(odd) {
-  background-color: #f2f2f2;
-}
